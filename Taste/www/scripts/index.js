@@ -9,11 +9,5 @@ function tasteApp() {
 
     alert('works')
 
-
-
-
-
-
-
 }
 
